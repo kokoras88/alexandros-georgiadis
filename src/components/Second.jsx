@@ -2,7 +2,7 @@ const Second = () => {
   return (
     <div className="second">
       <div className="boy">
-        <img src="../images/boy.png" alt="" />
+        <img src="/images/boy.png" alt="" />
       </div>
       <div className="text2">
         <h1 id="title" style={{maxWidth:200, padding:2}}>A BIT ABOUT ME</h1>

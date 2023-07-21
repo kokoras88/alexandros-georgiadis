@@ -6,7 +6,7 @@ const First = () => {
         <p>Ready for the next coding experience!</p>
       </div>
       <div className="saturn">
-        <img src="../images/saturn.png" alt="" />
+        <img src="/images/saturn.png" alt="" />
       </div>
     </div>
 

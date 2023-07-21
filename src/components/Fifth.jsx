@@ -10,7 +10,7 @@ const Fifth = () => {
 
       <div className="footer">
         <p>Made by <span>kokoras production</span>  © 2023 </p>
-        <img src="images/kokoras-logo.png"></img>
+        <img src="/images/kokoras-logo.png"></img>
       </div>
     </div>
   );
